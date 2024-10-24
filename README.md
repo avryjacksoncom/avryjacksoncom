@@ -15,9 +15,6 @@ I am currently focused on building full-stack applications using **React**, **Sp
 </p>
 
 
-
-In addition to programming, I have experience with tools and languages such as:
-
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/avryjacksoncom)
@@ -33,6 +30,9 @@ In addition to programming, I have experience with tools and languages such as:
 ### Operating Systems
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/avryjacksoncom)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/avryjacksoncom)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/avryjacksoncom)
+
+
 
 ---
 
@@ -42,4 +42,4 @@ I am working on an **Inventory Manager** that tracks and updates inventory data,
 ### Get in Touch
 
 - Email: avryjacksoncom@hotmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/avry-jackson-886529265/)
+- LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
