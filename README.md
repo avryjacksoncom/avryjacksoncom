@@ -1,24 +1,15 @@
+
 # Avry Jackson
 **Computer Science Student | Software Engineer**
-
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=avryjacksoncom&theme=github_dark_blue&hide_border=true)
 ---
-
 ## About Me
 
-I am a trans Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. My passion lies in backend programming, and I have experience in several programming languages, including:
-
-- **Java**
-- **Python**
-- **JavaScript**
-- **SQL**
-- **C/C++**
-- **React**
-- **JavaScript**
-
-
+I am a trans Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. My passion lies in backend programming, and I have experience in several programming languages.
 I am currently focused on building full-stack applications using **React**, **Spring Boot**, and **MySQL**, and I enjoy working on projects involving **data structures**
 
-In addition to programming, I have experience with tools such as:
+In addition to programming, I have experience with tools and languages such as:
 
 - **Git/GitHub**
 
