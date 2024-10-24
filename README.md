@@ -2,7 +2,9 @@
 # Avry Jackson
 **Computer Science Student | Software Engineer**
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=avryjacksoncom&theme=github_dark_blue&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=github_dark&hide_border=true&show_owner=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avryjacksoncom&theme=github_dark_blue&hide_border=true)
+
 ---
 ## About Me
 
