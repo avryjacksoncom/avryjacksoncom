@@ -9,7 +9,11 @@ I am currently focused on building full-stack applications using **React**, **Sp
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=github_dark&hide_border=true&show_owner=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avryjacksoncom&theme=github_dark_blue&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=github_dark&hide_border=true&show_owner=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avryjacksoncom&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 
 In addition to programming, I have experience with tools and languages such as:
