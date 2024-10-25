@@ -41,5 +41,5 @@ I am currently focused on building full-stack applications using **React**, **Sp
 I am working on an **Inventory Manager** that tracks and updates inventory data, using linked lists to manage items and perform actions like adding, deleting, and editing items.
 ### Get in Touch
 
-- Email: avryjacksoncom@hotmail.com
+- Email: avryjacksoncom@gmail.com
 - LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
