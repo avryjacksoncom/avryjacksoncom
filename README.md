@@ -26,8 +26,6 @@ I am currently focused on building full-stack applications using **React**, **Sp
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/avryjacksoncom)
 
 ---
-### Leet Code Stats
-[![Leetcode Stats](https://leetcard.c3HVzpLKxG/c3HVzpLKxG)](https://leetcode.com/c3HVzpLKxG)
 ### Operating Systems
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/avryjacksoncom)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/avryjacksoncom)
