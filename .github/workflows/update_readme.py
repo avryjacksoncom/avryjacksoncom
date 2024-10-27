@@ -1,8 +1,6 @@
 import requests
-import os
 
-# Replace 'your-leetcode-username' with your actual LeetCode username
-LEETCODE_USERNAME = 'https://leetcode.com/u/avryjacksoncom/'
+LEETCODE_USERNAME = 'avryjackson'
 
 def fetch_leetcode_stats(username):
     url = f'https://leetcode-stats-api.herokuapp.com/{username}'
@@ -17,13 +15,13 @@ def update_readme(stats):
     with open("README.md", "r") as file:
         readme_content = file.readlines()
 
-    # Assuming you have placeholders in README.md for each level
+    # Extracting the specific data fields from the API response
     easy_count = stats.get('easySolved', 0)
     medium_count = stats.get('mediumSolved', 0)
     hard_count = stats.get('hardSolved', 0)
     total_count = stats.get('totalSolved', 0)
 
-    # Update the placeholder with fetched stats
+    # Update placeholders in README with the fetched data
     new_content = []
     for line in readme_content:
         if "![easy-badge]" in line:
@@ -36,6 +34,7 @@ def update_readme(stats):
             line = f"![total-badge](https://img.shields.io/badge/Total-{total_count}-blue)\n"
         new_content.append(line)
 
+    # Write the updated content back to README.md
     with open("README.md", "w") as file:
         file.writelines(new_content)
 
