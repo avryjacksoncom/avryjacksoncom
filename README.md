@@ -34,8 +34,16 @@ I am currently focused on building full-stack applications using **React**, **Sp
 ---
 
 
-### Current Project
+### Current Projects
 I am working on an **Inventory Manager** that tracks and updates inventory data, using linked lists to manage items and perform actions like adding, deleting, and editing items.
+
+## LeetCode Stats
+
+![easy-badge]
+![medium-badge]
+![hard-badge]
+![total-badge]
+
 ### Get in Touch
 
 - Email: avryjacksoncom@gmail.com
