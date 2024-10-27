@@ -35,7 +35,8 @@ I am currently focused on building full-stack applications using **React**, **Sp
 
 
 ### Current Projects
-I am working on an **Inventory Manager** that tracks and updates inventory data, using linked lists to manage items and perform actions like adding, deleting, and editing items.
+- Algorithm visualizer
+- Data storing with datatbase with front end and back end framework
 
 ## LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/avryjacksoncom)
