@@ -1,6 +1,6 @@
 
 # Avry Jackson
-**Computer Science Student | Software Engineer**
+**Computer Science Student | Preparing for my Software Engineer Journey**
 ---
 ## About Me
 
