@@ -43,5 +43,5 @@ I am currently focused on building full-stack applications using **React**, **Sp
 
 ### Get in Touch
 
-- Email: avryjacksoncom@gmail.com
+- Email: ljackson175@toromail.csudh.edu
 - LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
