@@ -13,9 +13,7 @@ I am currently focused on building full-stack applications using **React**, **Sp
   <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=tokyonight" alt="Avry's GitHub Stats">
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=avryjacksoncom&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=avryjacksoncom&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
