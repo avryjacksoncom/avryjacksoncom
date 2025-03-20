@@ -11,8 +11,9 @@ I am currently focused on building full-stack applications using **React**, **Sp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=github_dark&hide_border=true&show_owner=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avryjacksoncom&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avryjacksoncom&theme=github_dark_blue&hide_border=true" alt="GitHub Streak" /> -->
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ### Languages & Tools 🌐
