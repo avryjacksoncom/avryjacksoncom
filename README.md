@@ -8,16 +8,8 @@ I am a Computer Science student at Cal State Dominguez Hills pursuing a career i
 I am currently focused on building full-stack applications using **React**, **Spring Boot**, and **MySQL**, and I enjoy working on projects.
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=avryjacksoncom)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=avryjacksoncom"/>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=github_dark&hide_border=true&show_owner=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=avryjacksoncom&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=avryjacksoncom)](https://git.io/streak-stats)
 
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
