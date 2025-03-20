@@ -8,6 +8,7 @@ I am a Computer Science student at Cal State Dominguez Hills pursuing a career i
 I am currently focused on building full-stack applications using **React**, **Spring Boot**, and **MySQL**, and I enjoy working on projects.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=avryjacksoncom)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=avryjacksoncom"/>
