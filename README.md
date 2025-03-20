@@ -9,13 +9,13 @@ I am currently focused on building full-stack applications using **React**, **Sp
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=tokyonight" alt="Avry's GitHub Stats">
+</div>
+
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=avryjacksoncom&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=tokyonight)
-
+</div>
 
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
