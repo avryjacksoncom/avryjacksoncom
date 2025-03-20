@@ -10,7 +10,8 @@ I am currently focused on building full-stack applications using **React**, **Sp
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=github_dark&hide_border=true&show_owner=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=tokyonight" alt="Avry's GitHub Stats">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=avryjacksoncom&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=tokyonight)
