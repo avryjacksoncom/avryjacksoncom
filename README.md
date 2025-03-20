@@ -9,7 +9,7 @@ I am currently focused on building full-stack applications using **React**, **Sp
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=avryjacksoncom)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?avryjacksoncom)](https://git.io/streak-stats)
 
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
