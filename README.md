@@ -16,7 +16,6 @@ I am currently focused on building full-stack applications using **React**, **Sp
 [![GitHub Streak](https://streak-stats.demolab.com/?user=avryjacksoncom)](https://git.io/streak-stats)
 
 
-
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/avryjacksoncom)
