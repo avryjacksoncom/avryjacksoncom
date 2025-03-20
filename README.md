@@ -9,6 +9,10 @@ I am currently focused on building full-stack applications using **React**, **Sp
 
 ---
 
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=avryjacksoncom"/>
+</a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=github_dark&hide_border=true&show_owner=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=avryjacksoncom&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
