@@ -1,10 +1,10 @@
 
 # Avry Jackson
-**Computer Science Student | Preparing for my Software Engineering Journey**
+**Computer Science Student | Software Engineering**
 ---
 ## About Me
 
-I am a Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. My passion lies in backend programming, and I have experience in several programming languages.
+I am a Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. I love t do backend programming, and I have experience in several programming languages.
 I am currently focused on building full-stack applications using **React**, **Spring Boot**, and **MySQL**, and I enjoy working on projects.
 
 ---
