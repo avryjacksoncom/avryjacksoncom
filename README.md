@@ -31,7 +31,7 @@ I do front-end with react js and the backend I use is usually python!
 
 ### Current Projects
 - Algorithm visualizer
-- Furryus.com | domain will change soon! website with an automated google calendar that adds events wrote via script.
+- https://furryus.com/ | domain will change soon! website with an automated google calendar that adds events wrote via script.
 - College Location Project
 
 ### Get in Touch
