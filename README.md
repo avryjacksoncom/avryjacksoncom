@@ -4,16 +4,11 @@
 ---
 ## About Me
 
-I am a Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. I love t do backend programming, and I have experience in several programming languages.
-I am currently focused on building full-stack applications using **React**, **Spring Boot**, and **MySQL**, and I enjoy working on projects.
+I am a Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. I love to do backend programming.
+I am currently building a couple websites, projects, and automation scripts! 
+I do front-end with react js and the backend I use is usually python!
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avryjacksoncom&show_icons=true&theme=tokyonight" alt="Avry's GitHub Stats">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-mocha.vercel.app?user=avryjacksoncom&theme=tokyonight" alt="GitHub Streak" /></a>
-</div>
-
 
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
@@ -38,8 +33,6 @@ I am currently focused on building full-stack applications using **React**, **Sp
 - Algorithm visualizer
 - Data storing with datatbase with front end and back end framework
 
-## LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/avryjacksoncom)
 
 ### Get in Touch
 
