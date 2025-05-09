@@ -1,6 +1,6 @@
 
 # Avry Jackson
-**Computer Science Student | Software Engineering | FALL GRAD 2025**
+**Computer Science Student | Software Engineering | Fall GRAD 2025**
 ---
 ## About Me
 
