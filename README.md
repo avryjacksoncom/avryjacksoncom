@@ -12,7 +12,7 @@ I am currently building a couple websites, projects, and automation scripts!
 I've been developing with react js and python!
 
 ---
-### Current Projects
+## Current Projects
 [Project Notes](https://avryjacksoncom.github.io/)
 
 ### Furry AI Google Calendar | https://furryus.com/
