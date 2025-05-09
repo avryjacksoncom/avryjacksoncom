@@ -1,5 +1,5 @@
 
-# Avry Jackson [Website](https://avryjackson.me/)
+# [Avry Jackson](https://avryjackson.me/)
 **Computer Science Student | Software Engineering | Fall GRAD 2025**
 
 - Email: ljackson175@toromail.csudh.edu
