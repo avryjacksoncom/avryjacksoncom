@@ -1,12 +1,41 @@
 
-# Avry Jackson
+# Avry Jackson [Website](https://avryjackson.me/)
 **Computer Science Student | Software Engineering | Fall GRAD 2025**
+
+- Email: ljackson175@toromail.csudh.edu
+- LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
+
 ---
 ## About Me
-
 I am a Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. I love to do backend programming.
 I am currently building a couple websites, projects, and automation scripts! 
-I do front-end with react js and the backend I use is usually python!
+I've been developing with react js and python!
+
+---
+### Current Projects
+[Project Notes](https://avryjacksoncom.github.io/)
+
+### Furry AI Google Calendar | https://furryus.com/
+- Scraping real life furry events and using AI to extrsact data to a google calendar. I've been making a
+website with the google calendar for easier access to all. To anyone that has an interest in the fandom.
+- My first programming project that helps people, and I'm really happy that I can help the oragnizers of
+these events save their own time not having to add events manually to the calendar.
+
+### Jewelry Excange In-Store Customer Survey
+- Made a survey for data collecting on how a customer has heard of our store. To find out if our ads are working
+from Google, Bing, etc, from real people.
+- My second programming projcet being used in real life! This one was
+interesting because it was more about understanding http to https traffic then actual code. I learned about vps
+servers and pointing an ip to a domain.
+
+### College Location Project
+- Developing a google map for our college. More information and more direct directions.
+I'll be trying to develop this one the most for this summer.
+
+### Kitchen Scanner
+- Developing a Kitchen Scanner App for my own home. Goal is that it can be scalable to other people as will.
+I have integrated a barcode scanner so a user can scan a food item and it will scrape data from
+a upc site to give inormation about the food product.
 
 ---
 
@@ -28,14 +57,3 @@ I do front-end with react js and the backend I use is usually python!
 
 ---
 
-
-### Current Projects
-
-- https://furryus.com/ | domain will change soon! website with an automated google calendar that adds events wrote via script.
-- College Location Project
-- Kitchen Scanner
-
-### Get in Touch
-
-- Email: ljackson175@toromail.csudh.edu
-- LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
