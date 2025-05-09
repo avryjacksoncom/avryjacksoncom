@@ -21,7 +21,7 @@ website with the google calendar for easier access to all. To anyone that has an
 - My first programming project that helps people, and I'm really happy that I can help the oragnizers of
 these events save their own time not having to add events manually to the calendar.
 
-### Jewelry Excange In-Store Customer Survey
+### Jewelry Exchange In-Store Customer Survey
 - Made a survey for data collecting on how a customer has heard of our store. To find out if our ads are working
 from Google, Bing, etc, from real people.
 - My second programming projcet being used in real life! This one was
