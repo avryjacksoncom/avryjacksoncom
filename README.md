@@ -15,7 +15,7 @@ I've been developing with react js and python!
 ## Current Projects
 [Project Notes](https://avryjacksoncom.github.io/)
 
-### Furry AI Google Calendar | Website: https://furryus.com/ | [Github Repo For The Calendar Scraper](https://github.com/avryjacksoncom/FurryCalendarApiRepo)
+### Furry AI Google Calendar | https://furryus.com/ | [Github Repo For The Calendar Scraper](https://github.com/avryjacksoncom/FurryCalendarApiRepo)
 
 - Scraping real life furry events and using AI to extrsact data to a google calendar. I've been making a
 website with the google calendar for easier access to all. To anyone that has an interest in the fandom.
