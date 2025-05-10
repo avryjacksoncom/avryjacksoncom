@@ -1,5 +1,5 @@
 
-# Hi there 👋 My name is [Avry](https://avryjackson.me/)
+## Hi there 👋 My name is [Avry](https://avryjackson.me/)
 **Computer Science Student | Software Engineering | Fall Grad 2025**
 
 - Email: ljackson175@toromail.csudh.edu
