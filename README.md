@@ -1,42 +1,37 @@
 
 # [Avry Jackson](https://avryjackson.me/)
-**Computer Science Student | Software Engineering | Fall GRAD 2025**
+**Computer Science Student | Software Engineering | Fall Grad 2025**
 
 - Email: ljackson175@toromail.csudh.edu
 - LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
 
 ---
 ## About Me
-I am a Computer Science student at Cal State Dominguez Hills pursuing a career in software engineering. I love to do backend programming.
-I am currently building a couple websites, projects, and automation scripts! 
-I've been developing with react js and python!
+I’m a Computer Science student at Cal State Dominguez Hills. I enjoy building web applications, 
+working on personal projects, and automating tasks to solve real world problems. Currently, 
+I’m developing a couple of websites and automation scripts using React.js and Python.
 
 ---
 ## Current Projects
 [Project Notes](https://avryjacksoncom.github.io/)
 
-### Furry AI Google Calendar | https://furryus.com/ | [Github Repo For The Calendar Scraper](https://github.com/avryjacksoncom/FurryCalendarApiRepo)
-
-- Scraping real life furry events and using AI to extrsact data to a google calendar. I've been making a
-website with the google calendar for easier access to all. To anyone that has an interest in the fandom.
-- My first programming project that helps people, and I'm really happy that I can help the oragnizers of
-these events save their own time not having to add events manually to the calendar.
+### [Furry AI Google Calendar](https://github.com/avryjacksoncom/FurryCalendarApiRepo) | https://furryus.com/
+- Building a website that automatically scrapes real- ife furry events and uses AI to extract event details.
+which are then added to a shared Google Calendar. This project makes it easier for people to stay informed
+and helps event organizers by automating the process of adding events to a calendar.
 
 ### Jewelry Exchange In-Store Customer Survey
-- Made a survey for data collecting on how a customer has heard of our store. To find out if our ads are working
-from Google, Bing, etc, from real people.
-- My second programming projcet being used in real life! This one was
-interesting because it was more about understanding http to https traffic then actual code. I learned about vps
-servers and pointing an ip to a domain.
+- Created a survey to collect data on how customers discovered our store, helping us evaluate the
+effectiveness of our advertising channels such as Google, Bing, etc.
 
 ### College Location Project
-- Developing a google map for our college. More information and more direct directions.
-I'll be trying to develop this one the most for this summer.
+- Currently developing an enhanced Google Map for our college to provide detailed information
+and more accurate directions. This will be my main development focus over the summer.
 
 ### Kitchen Scanner
-- Developing a Kitchen Scanner App for my own home. Goal is that it can be scalable to other people as will.
-I have integrated a barcode scanner so a user can scan a food item and it will scrape data from
-a upc site to give inormation about the food product.
+- Developing a Kitchen Scanner App for personal use, with the goal of making it scalable.
+Any 1D barcode scanner can be used so users can scan food items and retrieve product information
+by scraping data from a UPC database.
 
 ---
 
