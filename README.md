@@ -34,7 +34,10 @@ Any 1D barcode scanner can be used so users can scan food items and retrieve pro
 by scraping data from a UPC database.
 
 ---
+### Certifications
+![image](https://github.com/user-attachments/assets/6b30cce8-4d1b-4b02-80ab-cb29fdee6947)
 
+---
 ### Languages & Tools 🌐
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/avryjacksoncom)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/avryjacksoncom)
