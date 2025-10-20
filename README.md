@@ -4,6 +4,7 @@
 
 - Email: ljackson175@toromail.csudh.edu
 - LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
+- Portfolio Website:  [avryjackson.me](https://www.avryjackson.me/)
 
 ---
 ## About Me
@@ -15,23 +16,26 @@ I’m developing a couple of websites and automation scripts using React.js and 
 ## Current Projects
 [Project Notes](https://avryjacksoncom.github.io/)
 
-### [Furry AI Google Calendar](https://github.com/avryjacksoncom/FurryCalendarApiRepo) | https://furryus.com/
-- Building a website that automatically scrapes real- ife furry events and uses AI to extract event details.
-which are then added to a shared Google Calendar. This project makes it easier for people to stay informed
-and helps event organizers by automating the process of adding events to a calendar.
+### [SoCalFurs.com – Community Event Platform](https://socalfurs.com/)
+https://github.com/avryjacksoncom/FurryCalendarApiRepo
+- I developed an AI-powered event automation tool using Python, Google AI, and React that converts Telegram messages
+into structured Google Calendar events. The system currently serves a community of over 2,000+ members with
+80 organizers, handling hundreds of daily requests and syncing updates every three minutes to ensure real-time accuracy.
+To improve accessibility, I also deployed a companion website for browsing and searching events.
+
 
 ### Jewelry Exchange In-Store Customer Survey
-- Created a survey to collect data on how customers discovered our store, helping us evaluate the
-effectiveness of our advertising channels such as Google, Bing, etc.
+-At Jewelry Exchange, I automated duplicate detection in a 12,000+ image directory using Python, successfully
+removing more than 200 redundant files. I also designed and deployed an HTML/JavaScript image carousel that improved
+site engagement and contributed to a 20% increase in online sales. Developed a FastAPI and React-based customer survey
+system that collects ad-source data from in-store visitors via QR code, averaging 25+ responses each weekend and
+providing valuable marketing insights.
 
 ### College Location Project
-- Currently developing an enhanced Google Map for our college to provide detailed information
-and more accurate directions. This will be my main development focus over the summer.
-
-### Kitchen Scanner
-- Developing a Kitchen Scanner App for personal use, with the goal of making it scalable.
-Any 1D barcode scanner can be used so users can scan food items and retrieve product information
-by scraping data from a UPC database.
+-Building an interactive mapping platform with React and Python that helps students navigate campus buildings
+and classrooms. The platform includes an admin-edit mode that allows administrators to add or edit buildings, paths,
+and points of interest without code changes, and it is expected to support over 15,000 students and staff at
+California State University, Dominguez Hills.
 
 ---
 ### Certifications
