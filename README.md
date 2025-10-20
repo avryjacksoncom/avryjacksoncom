@@ -14,28 +14,19 @@ I’m developing a couple of websites and automation scripts using React.js and 
 
 ---
 ## Current Projects
-[Project Notes](https://avryjacksoncom.github.io/)
 
 ### [SoCalFurs.com – Community Event Platform](https://socalfurs.com/)
 https://github.com/avryjacksoncom/FurryCalendarApiRepo
 - I developed an AI-powered event automation tool using Python, Google AI, and React that converts Telegram messages
 into structured Google Calendar events. The system currently serves a community of over 2,000+ members with
-80 organizers, handling hundreds of daily requests and syncing updates every three minutes to ensure real-time accuracy.
-To improve accessibility, I also deployed a companion website for browsing and searching events.
-
+80 organizers.
 
 ### Jewelry Exchange In-Store Customer Survey
--At Jewelry Exchange, I automated duplicate detection in a 12,000+ image directory using Python, successfully
-removing more than 200 redundant files. I also designed and deployed an HTML/JavaScript image carousel that improved
-site engagement and contributed to a 20% increase in online sales. Developed a FastAPI and React-based customer survey
-system that collects ad-source data from in-store visitors via QR code, averaging 25+ responses each weekend and
-providing valuable marketing insights.
+- Developed a FastAPI and React-based customer survey system that collects ad-source data from in-store visitors via QR code, averaging 25+ responses each weekend.
 
 ### College Location Project
--Building an interactive mapping platform with React and Python that helps students navigate campus buildings
-and classrooms. The platform includes an admin-edit mode that allows administrators to add or edit buildings, paths,
-and points of interest without code changes, and it is expected to support over 15,000 students and staff at
-California State University, Dominguez Hills.
+- Building an interactive mapping platform with React and Python that helps students navigate campus buildings
+and classrooms.
 
 ---
 ### Certifications
