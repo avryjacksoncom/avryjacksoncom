@@ -7,12 +7,6 @@
 - Portfolio Website:  [avryjackson.me](https://www.avryjackson.me/)
 
 ---
-## About Me
-I’m a Computer Science student at Cal State Dominguez Hills. I enjoy building web applications, 
-working on personal projects, and automating tasks to solve real world problems. Currently, 
-I’m developing a couple of websites and automation scripts using React.js and Python.
-
----
 ## Current Projects
 
 ### [SoCalFurs.com – Community Event Platform](https://socalfurs.com/)
@@ -29,6 +23,13 @@ into structured Google Calendar events. The system currently serves a community 
 and classrooms.
 
 ---
+
+---
+## About Me
+I’m a Computer Science student at Cal State Dominguez Hills. I enjoy building web applications, 
+working on personal projects, and automating tasks to solve real world problems. Currently, 
+I’m developing a couple of websites and automation scripts using React.js and Python.
+
 ### Certifications
 ![image](https://github.com/user-attachments/assets/6b30cce8-4d1b-4b02-80ab-cb29fdee6947)
 
