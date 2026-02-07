@@ -15,10 +15,10 @@ https://github.com/avryjacksoncom/FurryCalendarApiRepo
 into structured Google Calendar events. The system currently serves a community of over 2,000+ members with
 80 organizers.
 
-### Jewelry Exchange In-Store Customer Survey(https://avryjackson.me/experience)
+### [Jewelry Exchange In-Store Customer Survey](https://avryjackson.me/experience)
 - Developed a FastAPI and React-based customer survey system that collects ad-source data from in-store visitors via QR code, averaging 25+ responses each weekend.
 
-### College Location Project (https://avryjackson.me/projects)
+### [College Location Project](https://avryjackson.me/projects)
 - Building an interactive mapping platform with React and Python that helps students navigate campus buildings
 and classrooms.
 
