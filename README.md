@@ -1,6 +1,6 @@
 
 ## Hi there 👋 My name is [Avry](https://avryjackson.me/)
-**Computer Science Student | Software Engineering | Fall Grad 2025**
+**Computer Science New Grad | Software Engineer |**
 
 - Email: ljackson175@toromail.csudh.edu
 - LinkedIn: [Avry Jackson](https://www.linkedin.com/in/avry-jackson-886529265/)
